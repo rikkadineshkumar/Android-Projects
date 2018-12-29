@@ -1,0 +1,470 @@
+<resources>
+    <string name="app_name">Sankalp 2K18</string>
+    <string name="title_activity_app_intro">AppIntroActivity</string>
+
+    <array name="course" id="course">
+        <item>Select Course</item>
+        <item>B.Tech</item>
+        <item>M.Tech</item>
+        <item>MCA</item>
+        <item>MBA</item>
+        <item>M.Sc</item>
+    </array>
+    <array name="year" id="year">
+        <item>Select Year</item>
+        <item>1st</item>
+        <item>2nd</item>
+        <item>3rd</item>
+        <item>4th</item>
+    </array>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="ok">OK</string>
+
+    <string name="slide_1_title">Technical Events</string>
+    <string name="slide_1_desc">Robo War, Coding, Hardware Modeling Preasentation and more...! </string>
+
+    <string name="slide_2_title">Cultural and Management Events </string>
+    <string name="slide_2_desc">Art Gallery, Quest, Metamorphosis, Devils Advocats, Startup Enterprise presentation...!</string>
+
+    <string name="slide_3_title">Fun and Adventures</string>
+    <string name="slide_3_desc">Treasure Hunt, Virtual Reality, Clash of clans ...!!!</string>
+
+    <string name="slide_4_title">Get Ready these events...</string>
+    <string name="slide_4_desc"></string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="todo">TODO</string>
+
+    <string name="contact_details">
+        "For Sankalp2K18 Registration\n"
+        "1. Kola Bal Gopal (7008173665)\n"
+        "2. Sumit Bennerjy (7008173665)\n\n"
+        "For Accommodation\n"
+        "1. Ujjwal Akash (7008173665)\n"
+        "2. Kola Bal Gopal (7008173665)\n\n"
+        "Any Query Related to Sankalp2K18\n"
+        "1. Kola Bal Gopal (7008173665)\n"
+        "2. Kola Bal Gopal (7008173665)"
+    </string>
+
+    <string name="faq">
+        "1. What is Sankalp?\n"
+        "Ans:- Sankalp is a 2 days Mega Tech-Fest organised by NIST ISTE Student Chapter.\n\n"
+        "2. What are Events conducted during Sankalp?\n"
+        "Ans:- Technical, Management, Cultural, Games, Fun &amp; Adventure's events are conducted during Sankalp.\n\n"
+        "3. Is Students from other colleges are allowed to participate in Events?\n"
+        "Ans:- YES, Students are allowed to participate in any of the Sankalp Events.\n\n"
+        "4. How to participate in Events?\n"
+        "Ans:- First you need to register for Sankalp2K18, then you are able to participate in different events.\n\n"
+        "5. What is the cost of Sankalp2K18 registration for NIST student and other colleges student?\n"
+        "Ans:- For NIST Student (1st Year students amount=250/-[ISTE registration fee]+350/-[sankalp registration fee]) and (2nd-4th Year amount=350/-[sankalp registration fee])"
+	    "For Other colleges student (amount=400/-)\n\n"
+        "6. Benefits for participating in events.\n"
+        "Ans:- If You participate &amp; win any of the events except(Fun &amp; Adventure events) you will get exciting Cash Prizes, Goodies and Certificates.\n\n"
+        "7. How to Know when &amp; where events are conducted?\n"
+        "Ans:- If you have Install Sankalp2K18 App from Play Store then you will get Notification in your Mobile befor half-hour of the event."
+    </string>
+
+
+    <string name="title_activity_details_scrolling"></string>
+
+    <string name="tiw">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"The participating team need to design and construct a manually (Wired / Wireless) controlled robot capable of driving the opponent’s robot into the dead pit zone either by pushing, dragging, lifting and throwing, or making robot immobile or by any other means within the specified time.\n"
+		"BOT SPECIFICATION: 1.Weight limit: 10kg (on-bot/off-bot power supply) 2. Maximum allowable dimension: 35cmx35cmx35cm 3. Voltage supply: 25v\n\n"
+		"EVENT COORDINATORS: \n"
+		"SOURAV PRADHAN +91-7377320472 \n"
+		"SUSHRUT BRAHMACHARI +91-7064171852\n\n"
+	</string>
+    <string name="tgm">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"While the doomsday was knocking at the door of the planet Earth, a couple of brave heroes came forward to save the planet. People heard about “SPACE-X” which was developing a confidential program to evacuate the people of earth. Later on, these program was found to be “GREEN Robots” of SPACE-X who became the savior of Earth. But the leader of Green Robots now protecting their species and they have to reach the check point from where they are to be rescued. And now they are preparing for a long journey "THE GREEN MILE."\n"
+		"Problem Statement:- This contest requires a team to build a remote controlled (wired or wireless) robot that will compete in a robotic race match against another team. The team that finishes first and scores the highest points in 3 minutes match wins. The event is aimed at testing the speed and the control of the robot.\n"
+		"ROBOT SPECIFICATION: 1. Maximum permitted size is 25cm x 25cm x 25cm. 2.Maximum weight of bot 5kg. 3.A voltage source of maximum 24volts can be used as power supply. [Tolerance=5%]\n\n"
+		"EVENT COORDINATORS: \n"
+		"Dinmani Kumar +91-8093987364 \n"
+		"Shiv Shakti Sahoo +91-9583446960\n"
+	</string>
+    <string name="tze">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"Zero Error event of Club Excel is where the participants will compete in pairs with their programming skills and general IT knowledge. The event will be conducted as following: 1) It will Consist of 2 Rounds. Round 1: Elimination Round  Round 2: Messorithm Round 2)The participants will participate in pairs. 3) The problem statements will be given at the time of the event itself.\n"
+		"Round 1: 1) It’s the preliminary round or the Elimination round. 2)The question will be a crossword puzzle of 15 words where words relate to general CS and IT Knowledge. 3) Time allotted to teams for solving the puzzle will be 20 minutes. 4) The participants are advised to create their profile on www.hackerrank.com .\n"
+		"Round 2: 1)Participants that qualify the first round will participate in the overnight coding round. 2)Duration: From night 12 A.M to morning 5 A.M. of Day 1. 3) Participants will be given a jumbled algorithm to rearrange and code in any one of the allowed languages. 4) The problem mix is of Easy and Medium level algorithms. 5) This round will be conducted on www.hackerrank.com platform. 6) Use of C/C++/Python/Java language(s) is allowed.\n\n"
+		"EVENT COORDINATORS: \n"
+		"JYOTIRMOY PRAMANIK - +91-7064294383 \n"
+		"ANJALI SADANGI - +91-9439386075\n"
+	</string>
+    <string name="toc">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"Overnight coding is the premium event of Club Excel where the participants will compete with their coding skills and their proficiency in solving programming problems. The event will be conducted as following: 1) It will Consist of 2 Rounds.  Round 1: Elimination Round, Round 2: Overnight Round 2) Participants will participate individually. 3) The participants are advised to create their profile at www.hackerrank.com in advance. 4) The problem statements will be given at the time of the event itself.\n"
+		"Round 1: 1)It’s the preliminary round or the Elimination round. 2) It will be a written test where questions will be of multiple choice type. 3) The MCQ questions will be asked based on the basics of ‘C’ and ‘C++’ programming languages.\n"
+		"Round 2: 1) Participants that qualify the first round will participate in the overnight coding round. 2) Duration: From night 12 A.M to morning 5 A.M. of Day 1. 3) Participants will be given real life based problems to solve through their coding skills. 4) The problem mix is of Easy, Medium and Difficult questions. 5) This round will be conducted on www.hackerrank.com platform. 6) Use of C/C++/Python/Java language(s) is allowed.\n\n"
+		"EVENT COORDINATORS: \n"
+		"HARSH RANJAN - +91-7992334854 \n"
+		"RITUPARNO BEHERA - +91-7992339302\n"
+	</string>
+    <string name="tri">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"All the participants have to design the electronic circuits along with the prototype for the following statements mentioned in the modules.\n"
+		"Problem Statement 1: To guide the visitor inside the museum we require a robot which display the place name at each checkpoints of the museum. \n"
+		"Task:-  Design and construct a line follower robot without using Microcontroller and to display the value of each checkpoint in the seven segment display. Description:- In the below arena diagram the black line is drawn whose thickness is 3cm. Initially the robot is at START position as mentioned. Also it has three grey circles which are cylindrical poles covered with black paper. When the bot crosses the cylindrical pole the seven segment display counts one at Point-1 till it has not cross the second pole at Point-2 .When it crosses Point-2 it displays two until it has not crossed the Point-3.And finally it displays three till it has not reached the FINISH line. \n"
+		"Rules:-  1) The bot should be design without using Microcontroller. If any participant use microcontroller then he/she will be disqualified. 2)The dimension of the bot should be 20 cm X 20cm X 10cm (max). 3)The bot should be based on only combinational circuit and basic components of electronics 4) The Battery or Power Adapter capacity should not exceed 12 V.\n\n"
+		"Problem Statement 2: Museums preserves many antiques, historical archives and biological specimen therefore it is important to monitor the room temperature, air quality measures and restricting the visitors from entering the prohibited areas.\n"
+		"Task:-  Different physical and chemical factors, such as light, temperature, relative humidity, pollutants and so on, can affect works of art on display. Each factor does not act individually, but its effect can be enhanced or accelerated by the presence of other factors. So the task is to design a prototype of the room where the parameter light intensity, motion pressure, temperature and air quality is maintained using microcontroller and develop the alarming system if the value sensed is more than the tolerance value. Bonus: If the data get from sensor is logged in the text file or Excel file.\n"
+		"Rules:- 1)The parameters shown by the device should include temperature, light intensity, air quality and harmful gases. 2) Any additional features will fetch you extra marks. 3) It should have a display system which can show the tolerance value and the current value of the parameters in the room.\n\n"
+		"Problem Statement 3:  This problem statement is a self-generated idea solution to an existing problem. The participants have to be innovative and should make a hardware model so that it could give a satisfactory solution to their idea.\n"
+		"Rules:- 1)There is no restrictions on the use of electronic component 2) Microcontrollers can be used 3)Idea should be innovative and new 4) Hardware model of the same is required.\n\n"
+		"Junior category: (For 1st Year Students only)\n"
+		"In this part the participants have to show up their innovative skills to provide solution to any real time problem of the society. A working model of the same should be brought on the day. They can support their ideas by necessary diagram, simulation, hardware or PPT. \n"
+		"Rules: 1)The members in a team should not exceed more than 2.  2) Only first year students can participate in this category 3) Any innovative circuit or funny circuits will be welcomed\n"
+		"Registration Process: Students can participate in individual or in group with maximum three member in each group. To register student have to visit the SANKALP 2K18 website or through OIS and fill the details under EHC event section.\n\n"
+		"EVENT COORDINATORS: \n"
+		"CHANDRA SHEKHAR SAHOO: +91-8917251850\n"
+		"ARBIND MAHTO: +91-7008420930\n"
+	</string>
+    <string name="tfk">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"Description: This event is comprises of two rounds: - Round 1: - Participants will have to go through a written test on the concepts of basic electronics. The test duration will be of 30 min Round 2: - The participants qualifying the written round will be provided with all the necessary components in order to design a circuit there itself. Note: In round 2, 2 nd year and 3rd year student will get the soldering rod and APB Board to design the circuit while 1st year will get the Breadboard and jumper wires to design the same.\n"
+		"Rules:-  1. The qualifying students are only allowed to take part in the second round i.e. circuit designing. 2. The team may consist of maximum 2 members. 3. The members can take their test together 3. In round 2, the participant making the working circuit fastest would be preferred.\n"
+		"Registration Process: Students can participate in individual or in group with maximum three member in each group. To register student have to visit the SANKALP 2K18 website or OIS and fill the details under EHC event section.\n\n"
+		"EVENT COORDINATORS: \n"
+		"ASHISH MALLICK: 7789801640\n"
+		"NIBEDITA PANDA: 8260804094 \n"
+	</string>
+    <string name="tps">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"EVENT COORDINATORS: \n"
+	</string>
+    <string name="tdp">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"This event consists of two rounds. The first round will consist of quiz test based on multiple choice questions. This round will be used for short listing of students for the final round. The final round will based on code debugging as the name suggests.\n"
+		"Problem Statement: Problem statement will be provided on the time of event.\n\n"
+		"EVENT COORDINATORS: \n"
+		"Lavitra - 7008488809\n"
+		"Saif - 7978148995\n"
+	</string>
+    <string name="tpp">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"Interested students can send their abstracts to sankalp2k18ppt@gmail.com. Topic can be Non-Tech, CSE/IT, ECE/EIE, EE/EEE, RENEWABLE, MECH/CIVIL, MBA, MCA, and MSC\n\n"
+		"EVENT COORDINATORS: \n"
+		"ANUPAM RUTURAJ TRIPATHY  +91 7894832408\n"
+		"AISHWARYA KAR  +91 8280307824\n"
+	</string>
+    <string name="tdm">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"The Event is based on the factor of innovation. 1) Participants who qualify the written round in groups will be given a problem statement. 2) They will have to build up a model according to the problem statement. 3) Material for the model will be provided in exchange for points that will be pre-assigned to the groups. 4) The team with maximum number of points in the end will be the winner.\n"
+		"Problem Statement: Design a transport system model (Working or non-working) that supports mobility on both water and land.\n\n"
+		"EVENT COORDINATORS: \n"
+		"Apoorva - +91-8658983318 \n"
+		"Shadab Khan - +91-8210000817\n"
+	</string>
+    <string name="tsi">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"Bridges have fascinated people since the dawn of time when nature built many bridges in the form of trees fallen over rivers. As technology developed people began to built artificial bridges were nature had not. In this quest you need to use Popsicle sticks to build a bridge. As Popsicle sticks are imperfect some may be bend or warped and some may be brittle, thin or cracked you must deal with these slight imperfections.\n"
+		"Rounds: 1. Written test (optional). 2. Model Preparation and presentation.\n"
+		"Materials required:-  Popsicle Stick, Wood Glue, Binder clip Participants: A Group of 3–5 members. PROBLEM STATEMENT Design a truss bridge using Popsicle sticks (ice cream sticks) satisfying the stated constraints.\n"
+		"Evaluation process 1) Minimum number of Popsicles to carry maximum amount of weight. 2) The use of materials and the aesthetic appeal of the bridge.\n\n"
+		"EVENT COORDINATORS: \n"
+		"SHAIKH NADIM AKHTAR - +91- 7873770789 \n"
+		"BRAJESH KUMAR DUBEY - +91- 8093720587\n"
+	</string>
+    <string name="tlv">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"Round-1(Day 1) On Day one all the interested students from 1st year, 2nd year and 3rd year of any discipline can participate in the first round of the Event named "LabVIEW Programming”. In Round 1 they will be provided with a set of multiple choice questions strictly based on some of the portions of basic LabVIEW along with basics of Electronics and some of the electronics components .The questions for basics of LabVIEW will come from the material which was given during LabVIEW workshop. The students whoever will secure the minimum qualifying marks will be promoted to attend the next round of the Event "LabVIEW Programming".\n"
+		"Round-2(Day 2) This is the final round of the event, those who have qualified in the 1st round will be given a problem statement that too on spot and they have to program a VI for it. The questions will come from the portion that have been taught during LabVIEW workshop and the questions will be very easy, so do participate.\n\n"
+		"EVENT COORDINATORS: \n"
+		"Atman Raj Sahu (9439000319)\n"
+		"Mahesh Kumar Patro (9438826628)\n"
+	</string>
+    <string name="tth">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"1. It is a fun event based on astronomy, requiring basic knowledge in elementary science. 2. Groups will be selected on the basis of their performance in the written test. 3. Each of the teams will be participating as a group of 5 having at least one compass or a phone with fully functional magnetometer. 4. The teams will be given directions to clear the following rounds. 5. All rounds will be an elimination round. 6. Physical strength and problem solving approach is vital. 7. Performance of each teams in every level will be monitored.\n"
+		"Problem Statement:-  Guardians of the mother gem and the anchor of life will safeguard their planet from extra-terrestrial attacks. The mysteries that surface in your path will have the key.\n\n"
+		"EVENT COORDINATORS: \n"
+		"Abhishek Pansari - +91-7205607615 \n"
+		"Sanidhya Saranya - +91-8984280104\n"
+	</string>
+    <string name="tafn">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"Ever wondered who Satoshi Nakamoto can be? What was Cobb’s totem in the movie Inception? Not the top, certainly. Intrigued? For all the wonderers with insatiable curiosity, Club Quizzards brings you its flagship event for Sankalp 2k18, “All for Naught: The General Quiz”. Get ready to compete with the sharpest and fastest minds with a passion for knowing of everything under the sun. Do you have the mettle to battle it out by notching subtle clues, connecting the dots and beating the buzzer at the ‘General Quiz’?\n"
+		"Round 1: It consist of twenty Questions, pen and paper based of which top six teams will qualify for the final round. Round 2: The final round, battle of the top six teams will be conducted by a Quiz Master. Event Rules: The only rule for participation is that you have to come in a team of two.\n\n"
+		"EVENT COORDINATORS: \n"
+		"Akash Nayak - +91-8338080221 \n"
+		"Akash Das - +91-7678307874\n"
+	</string>
+    <string name="til">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"It is a XILINX based group event. Each group contains 2(max.) members. 2 rounds are there(Prelims, Mains)\n"
+		"Problem Statement 1. Prelims:-written round(Basics of Digital Electronics and XILINX ISE software) 2. Mains:-Simulation and Synthesis of the Verilog code using dataflow, behavioral and structural modeling as per the problem statement.\n\n"
+		"EVENT COORDINATORS: \n"
+		"ROLIT PATHY- +91-7205914871 \n"
+		"DEBASISH PANIGRAHI- +91-9658805746\n"
+	</string>
+    <string name="tna">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"Problem Statement: To arrive with a brief analysis of problems faced and solution for them in the following fields: - 1) Biomedical waste disposal 2) Public transportation 3) River pollution 4) Radioactive waste (max 2 members in a group)\n"
+		"1) Topic submission: The topic chosen must be submitted along with their name, branch and roll number to the respective phone numbers given. 2) Presentation Round: Make a PowerPoint presentation in NIST format The presentation occurs as follows: Each of the selected teams is required to prepare a presentation on the topic chosen. They should present it in front of the panel of judges on the day of event. \n\n"
+		"EVENT COORDINATORS: \n"
+		"Sabya Sagarika - +91-9668143538 \n"
+		"Akash Kumar - +91-7205141584\n"
+	</string>
+    <string name="tss">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"Problem Statement: To arrive with a model that emphasizes on the energy generation and optimization, technological intervision in indian agricultural system and air pollution control and monitoring. the model should account problems prevailing in city. You can have your own standard assumptions (e.g. Population). Mail your abstracts on: club.rec.nist@gmail.com\n"
+		"1) Abstract Round: All the registered teams should submit an abstract of their idea which should not exceed 500 words. It should present your perspective as well as address all the issues pertaining to the problem statement. The following rules are to be followed while sending the abstract: 1.The cover page of the abstract should contain the following details: Team name, names of all the members of team, institute of study, email id and contact details. 2. The sent mail should be subjected with the event name, team name and the file is to be named as “Abstract by team name”. 2) Presentation Round: One’s idea can be presented in the following ways: 1. Technical model (or) 2. Business model The presentation occurs as follows: 1. Each of the selected teams is required to prepare a working model on the topic chosen. 2. They should present it in front of the panel of judges on the day of event.\n\n"
+		"EVENT COORDINATORS: \n"
+		"Suraj Bhagat - 7205648995 \n"
+		"Shilpa Nahak - 7205925749\n"
+	</string>
+    <string name="tttm">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"The main objective is to fit together an already disassembled cycle within the least time possible and then race it to the finishing line.\n"
+		"PROBLEM STATEMENT Phase- I : Teams will be provided with a dismantled bicycle. Lies before them is their task to completely assemble the cycle so as to erect it into a smoothly running condition. While building the cycle the teams need to take care that they complete the task within the least possible time. This phase shall challenge the participant’s basic knowledge about the parts of a cycle, presence of mind, team co-ordination and agility. From every batch the team which completes the task at first will be selected for the next phase. Phase- II : This phase is all about conventional racing. The selected teams from the previous phase(I) will have to race their cycle on a special track in order to leave others behind and push themselves to the finishing line\n\n"
+		"EVENT COORDINATORS: \n"
+		"Abhishek Tripathy - +91-7381338820 \n"
+		"Swaroop Mishra - +91-7751830890\n"
+	</string>
+    <string name="ta">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"The competition requires participants to design and fabricate their own boats and perform a set of maneuvering in the provided arena. \n"
+		"PROBLEM STATEMENT:-  The task is to come up with a design of a boat and fabricate it using the materials like corrugated fiber sheets, glue, machine tape, other scraps etc. After building the boat participants are required to show up with their boats near the arena where the real game will take place. The arena will consist of a small water pool where teams have to race with their respective boats. The arena will also have several obstacles that are needed to be cleared at first. The boats will almost always flood, shrink or shred under the weight of the boat mostly owing to difficulties in waterproofing the cardboard. \n\n"
+		"EVENT COORDINATORS: \n"
+		"Deepak Kumar - +91-7765063536 \n"
+		"Kailasa Nayak - +91-7978275280\n"
+	</string>
+    <string name="tmp">
+		"INTRODUCTION OF THE EVENT\n \n"
+		"Waste includes all items that people no longer have any use for which they either intend to get rid of or have already discarded. As per a 2013 report from the International Solid Waste Association (ISWA), the total garbage generation in 2013 was 1.84 billion tones per year. Many items can be considered as waste e.g., household rubbish, sewerage sludge, wastes from manufacturing activities, packaging items, discarded cars, old televisions, garden waste, old paint containers etc. Thus all our daily activities can give rise to a large variety of different wastes arising from different sources. \n"
+		"Rounds: 1. Model Preparation and presentation. Participants: A Group of 2-5 members\n"
+		"PROBLEM STATEMENT:-  You need to design a model using waste and have to describe the cost it will save when it is implemented.\n"
+		"Evolution:- The principle of conservation of these waste and practical implementation of the model.\n\n"
+		"EVENT COORDINATORS: \n"
+		"TANAYA KUMAR SHARMA - +91-9556378767 \n"
+		"ASHAR JAMI - +91-7205366996\n"
+	</string>
+    <string name="tsti">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"It is a P-spice based group event. Each group contains 2 Student members (max.). 2 rounds are there (Prelims, Mains)\n"
+		"Problem Statement 1. Prelims:-written round(Basics of Digital, Analog Electronics and PSPICE software) 2. Mains:-Circuit Design and Simulation in P-spice tool.\n\n"
+		"EVENT COORDINATORS: \n"
+		"PRABINRAJ MAHARANA - +91-7809057830\n"
+		"ABDUL KHADER JILANI - +91-8763234186\n"
+	</string>
+
+
+    <string name="mbb">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"1.The participants will be assigned to a volunteer and they will help the participants in buying and selling of shares in the share market. 2. After the completion of the process individual portfolio of each participant will be evaluated and the participant with highest profit will be tagged as a winner.\n\n"
+		"EVENT COORDINATORS: \n"
+		"K Siddharth - 9040214575 \n"
+		"Sweta Patnaik - 8093291940\n"
+	</string>
+    <string name="mbpp">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"1. Paper presentation must be related to business topics in terms of business management. 2. Paper can be presented in single or in a group of two. 3. Do mention your Name, roll no., email I'd and contact number in the abstract. 4. The slides must be in NIST format. 5. Use 'Times New Roman' for font style, for 'heading' use "36" font size and for 'Body' use "20" font size. This is applicable only for slides. 6. The presentation should have minimum 10 slides and maximum 15 slides. 7. There will be 3 rounds in this event: ROUND 1: Screening Participants have to submit their abstract(within 200 words) and the best abstract will be selected for the further round. ROUND 2 : Mock Presentation( Optional if the number of participants is higher). The selected abstract will be presented before the final presentation and the best performer will be allowed for the final presentation. ROUND 3 : Final Presentation The selected abstract or presentation will be presented to the jury and will be evaluated on several factors.\n\n"
+		"EVENT COORDINATORS: \n"
+		"Sandeep Padhi - 8338047176\n"
+		"Anwesha Padhy - 8093115866\n"
+	</string>
+    <string name="mtr">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"This is the event which challenges one’s ‘LATERAL’ thinking. The participant would be made the ‘DEVIL’S ADVOCATE’ and one will have to ‘justify’ the ‘unjustifiable’.\n"
+		"Registration Process: ONLINE\n"
+		"No.1. WRITTEN TEST: Includes multiple choice questions based on: 1. Aptitude 2. Logical Reasoning 3. Verbal Ability 4. Data Interpretation 5. Quantitative Ability etc"
+		"No.2. PERCEPTION TEST: The ability to see, hear, or become aware of something through the senses. The way in which something is regarded, understood, or interpreted."
+		"No.3. DEVIL’S ROUND(Final Round): The participant would be made the ‘DEVIL’S ADVOCATE’ and one will have to ‘justify’ the ‘unjustifiable’.\n\n"
+		"EVENT COORDINATORS: \n"
+		"Shivam Shandilya: +91-7488135228 \n"
+		"Atul Kumar Pandey: +91-9438009104\n"
+	</string>
+    <string name="mc">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"It is a group event .Each group contains 3-4 members. 4 rounds are there(Prelims - theme based - Advertising - Craft)\n"
+		"Problem Statement 1. Written-(Puzzles, Riddles, Crosswords) 2. Make the ZERO 3. Advertisement of a product 4. Crafts and Marketing.\n\n"
+		"EVENT COORDINATORS: \n"
+		"SUBHADEEPTA TRIPATHY- +91-9438819766 \n"
+		"PRAGYAN BHARATI- +91-9090006086\n"
+	</string>
+    <string name="mas">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"In this event participant’s intrepid action, miniature decisions, ingenious skill will be evaluated. It consists of two rounds. In the 1 st round participants will be asked to name his/her best-loved entrepreneur and reason/reasons behind liking him/her. Then 2nd round consists of three phases, each of the will test an entrepreneurial skill. Points will be awarded in each and every phase according to their performance; participants with highest points at the end will be announced as a winner.\n"
+		"Registration Process: Through OIS, On spot registration is allowed.\n"
+		"Problem Statement 1) The 1st round will look towards the participant’s interest towards entrepreneurship. Participants will be asked to name his/her inspiring entrepreneur and his/her attribute. 2)  The 2nd round will have three phases 3) Phase 1: Leadership skills will be tested through a blind folding and instruction game. 4)  Phase 2: Risk taking skills will be tested by ring throwing game. 5) Phase 3: Creativity skills will be tested by block building game in which a structure of wooden blocks has to be made that has maximum height and can carry maximum weight.\n\n"
+		"EVENT COORDINATORS: \n"
+		"Ankita Mishra: 07750827969\n"
+		"Souvik Chakraborty: 08235488851\n"
+	</string>
+    <string name="mts">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"3 ROUNDS:\n"
+		"1. PUZZLE ROUND: It’s a GAME or a PROBLEM which is designed to test ingenuity or knowledge. 1. A crossword puzzle. 2. A jigsaw puzzle. 3. Nail puzzle  4. Cryptic puzzle  5. Trivia puzzle  6. Mathematical puzzle 7. Riddle \n"
+		"2. SITUATION HANDLING TEST: Here, the participants are judged on content, humor, cogent, arguments, valid points and audience response.\n"
+		"3. ENVIRONMENT AWARENESS TEST (Final Round): Environmental awareness is an integral part of the movement’s success. By teaching our friend and family that the physical environment is fragile and indispensable we can begin fixing the problems that threaten it.\n"
+		"EVENT COORDINATORS: \n"
+		"G. Pratyusha - +91-9439870810\n"
+		"Masroor Badar - +91-9114868441\n"
+	</string>
+    <string name="moi">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"In this event the candidates will go through different levels in which there entrepreneur skills will be tested. 1. Each round will be based to check a certain skill of an Entrepreneur. 2. In 1st round an auction will be organized in which the participants have to buy real currency notes . 3. In 2nd round Investment skills will be tested. 4. In 3rd round Creativity and Brand presentation will be tested by a task to make a product using basic materials.\n"
+		"Registration Process: Through OIS, On spot registration is allowed.\n"
+		"Problem Statement:- Every participant will be given some points, which they will use to buy Real Currency notes. Then these currencies will be used in the next Round to make some investment. Which will further be evaluated in the 3rd Round.\n\n"
+		"EVENT COORDINATORS: \n"
+		"Rahul - 07809550989 \n"
+		"Happy Singh - 07909001055\n"
+	</string>
+
+
+    <string name="fcoc">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"A little more fun in air! And it’s better, when it comes with friends! Team up and get ready to battle in the famous in the famous game of Clash of Clans. Watch the battle actions streaming live and cheer up your team and friends. Clash ON!\n"
+		"Rules for Clan Battle 1)  Each team size should be of 5 members. 2) All the battles will be 5 versus 5. 3)  Battle Time: a. League: Preparation time: 15 mins. Battle time: 30 mins. b. Semi Finals and Finals: Preparation time: 30 mins. Battle time: 60 mins. 4)  The participants are solely responsible for any technical errors in the game. 5)  New clans will be provided on the spot, for which all players will be required to join. 6)  Participants have to come with their own mobile phones with COC installed in it. 7)  In a case of a tie between two clans who have secured 3 stars in all their attacks. The winner will be decided based on average attack duration of the clan. 8)  To keep the game fair and simple any type of 3rd party software/mod for the COC is strictly prohibited. Using it will automatically disqualify the participant from the competition. 9)  For the war battle, one clan can have only 1 Th11 base. 10)  The sum of town halls level must not exceed 48.\n"
+		"Registration Process (Optional): Google Form / Text Message / Spot Registration\n\n"
+		"EVENT COORDINATORS: \n"
+		"Pawan - +91 7870051788 \n"
+		"Saif - +91 7978148995\n"
+	</string>
+    <string name="fvl">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"It’s been a long time since you are a part of NIST. We are sure you must be well aware of all the shortcuts and secret places of the campus. Now it’s time to test your understanding of the campus with the fun facts and not so common names of the places around. With the NIST Treasure Hunt game, developed by Club Multimedia, get a chance to explore all of this virtually. It’s really exciting to know how in a matter of few minutes, just by solving a few riddles you will find the treasure hidden somewhere in the campus!\n\n"
+		"EVENT COORDINATORS: \n"
+		"Tapas Ranjan Mohapatra - +91-9439529679 \n"
+		"Srikant Das - +91-7205395418\n"
+	</string>
+    <string name="fwc">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"EVENT COORDINATORS: \n"
+	</string>
+    <string name="fz">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"EVENT COORDINATORS: \n"
+	</string>
+    <string name="foi">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"1) The Event is based on the factor of Fun, mental and physical abilities. 2) Participants who qualify the written round in groups will have to reach a final destination with the help of clues. 3) There will be hints put at several stages. 4) Treasures will be hidden in different areas of the campus. 5)  The team which reaches first to the final destination will be the winner.\n\n"
+		"EVENT COORDINATORS: \n"
+		"Sidhant Pattnaik - +91-8249353090 \n"
+		"Bhawini Dwivedi - +91-8789442078\n"
+	</string>
+    <string name="ftq">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"Taboo is the game of Grey matter. This game will test your brain’s clock speed as well as how fast you give words to your thoughts.\n"
+		"Round 1: The first round in this game will be a small test which will evaluate your analytical and verbal aptitude. Top six teams will qualify for the final round. Round 2: The second and final round will be the Taboo game in which you have to describe a word to your partner verbally without using the taboo attributes (Prohibited words) written on the token given to you.\n"
+		"Event Rules: i) You have to come in a team of two. ii) This event is open only for B.tech First year and Second year students.\n\n"
+		"EVENT COORDINATORS: \n"
+		"Akash Das - +91-7678307874 \n"
+		"Akash Nayak - +91-8338080221\n"
+	</string>
+    <string name="frh">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"1. RUSH HOUR is a three round event. 2. The Three Rounds are: - a) Being Selfie-sh! b) Peek-a-Boo c) EUREKA 3. Participants will participate in a group of two (2). 4. After every round certain number of groups will get eliminated. 5. At the end of the event we will have a pair as the winner.\n\n"
+		"EVENT COORDINATORS: \n"
+		"Manish Senapati +91-7205800229\n"
+		"Subhangi Nayak +91-9437258492\n"
+	</string>
+    <string name="fpp">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"This will be an online event to give students the title of Face of Sankalp 2018 which will be hosted on www.pikapik.in. The event will be in the form of a competition which will be allocated with a fixed period of time. The students can upload their pictures on the website and the entries will be evaluated on the number of piks(votes) they get on their respective pictures and the participant with the highest number of piks(votes) at the end of the set deadline will be declared the winner of the event.\n"
+		"Registration Process: Through the website – www.pikapik.in\n"
+		"Steps to participate – 1) Visit www.pikapik.in and login through Facebook 2) Open the event ‘Face of Sankalp 2018 3) Select ‘Upload a pik’ 4) Select your picture and upload.\n\n"
+		"EVENT COORDINATORS: \n"
+		"Pranav (8521480288)\n"
+		"Pawan (7870051788)\n"
+	</string>
+
+
+    <string name="gcs">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"1) CS_GO is a multiplayer first-person shooter game. 2) Students want to participate in CS-GO must come with their team of five members. 3) Every player must come with their mouse,keyboard and headphones.\n"
+		"PROBLEM STATEMENT : 1) Every match will be knock-out match. 2) Six maps will be given there and captains from two teams will decide the map before five minutes of the match. 3) Maps are 1)DUST-2 2)MIRAGE 3)OVERPASS 4)COBBLESTONE 5)CACHE 6)INFERNO\n"
+		"REGISTRATION PROCESS(Optional) : 1) Through OIS 2) Onspot Registration\n\n"
+		"EVENT COORDINATORS: \n"
+		"SAMBIT KUMAR MISHRA - +91-7008464144\n"
+		"ABHIJIT MOHANTY- +91-7008291549\n" 
+	</string>
+    <string name="gf">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"1) FIFA-18 is a multiplayer football game. 2) All equipements will be provided by us in the Octagon computer lab. 4) Students have to come in pre-announced time.\n"
+		"REGISTRATION PROCESS(Optional) : 1) Through OIS 2) Onspot Registration    VENUE :Octagon Computer Lab\n"
+		"PROBLEM STATEMENT : 1) Every league match will be knock-out match. 2) Every league match will be played between two players.\n\n"
+		"EVENT COORDINATORS: \n"
+		"ABHIJIT MOHANTY- +91-7008291549\n"
+		"PRAYAS PRATIK MOHANTY-+91-9437016276\n"
+	</string>
+    <string name="gnfs">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"1) NFS is a single player racing game. 2) All equipements will be provided by us in the Octagon computer lab. 3) Students have to come in pre-announced time.\n"
+		"REGISTRATION PROCESS(Optional) : 1) Through OIS 2) Onspot Registration    VENUE :Octagon Computer Lab\n"
+		"PROBLEM STATEMENT : 1) Every league race will be knock-out race. 2) Every league race will be played between four players. 3) One out of four players will be selected for the next round.\n\n"
+		"EVENT COORDINATORS: \n"
+		"SAMBIT KUMAR MISHRA - +91-7008464144 \n"
+		"PRAYAS PRATIK MOHANTY-+91-9437016276\n"
+	</string>
+    <string name="ginb">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"1) NBA 2K14 is a multiplayer basketball game. 2) All equipements will be provided by us in the Octagon computer lab. 4) Students have to come in pre-announced time.\n"
+		"REGISTRATION PROCESS(Optional) : 1) Through OIS 2) Onspot Registration    VENUE :Octagon Computer Lab\n"
+		"PROBLEM STATEMENT : 1) Every league match will be knock-out match. 2) Every league match will be played between two players.\n\n"
+		"EVENT COORDINATORS: \n"
+		"SAMBIT KUMAR MISHRA - +91-7008464144 \n"
+		"ABHIJIT MOHANTY- +91-7008291549\n"
+	</string>
+
+
+    <string name="weh">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"Do You Think That Your Facebook Passwords Are Safe? How Do You Know If the Transactions That You Do Are Safe or Not? What If Someone Is Monitoring Your Gmail Accounts? What Are You Going to Do Then? Have You Ever Thought About It? Well No Need to Worry!!! Enter the World of Hacking as Ethical Hackers. Workshop Fee : 700 per student (Including Software Kit) Date : 6 th - 7 th March 2018. Venue : National Institute of Science and Technology..\n"
+		"Presented by: CYBERX SECURITIES \n"
+		"Powered by: Cyberdroid Technologies Pvt. Ltd. New Delhi\n\n"
+		"EVENT COORDINATORS: \n"
+		"Rahul Kumar +91-7681870989\n"
+		"Prateek Kumar Harsh +91-8917639924\n"
+	</string>
+    <string name="wnp">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"This workshop is accurate for beginner level photographers, those who have lately acquired a D-SLR. The workshops are an ultimate guide to learn about the basic settings of your D-SLR. It will give a fair understanding of digital photography, camera operations, and handling techniques. If you are a less experienced photographer who's keen to develop their skills, the Basic level workshop is recommended. as the name says, includes practical sessions exploring various themes like nature, travel, street, landscape and still life photography. You can learn the art behind capturing beautiful shots of nature. The topics touched upon during the photo walk session are a clear understanding of your D-SLR’s ISO, Aperture, Composition, Shutter speed settings and more.\n"
+		"Registration fees : Rs 200/- \n"
+		"Workshop Date : 8 th March 2018\n\n"
+		"EVENT COORDINATORS: \n"
+		"Chandan rauto +91- 9658610011\n"
+	</string>
+    <string name="wmcr">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"Brainwave Controlled Robotics workshop will let us learn to digitize analog electrical brainwaves to power the user interface of games, education and research applications. Participants will ultimately be able to control robots and other devices through your mind! So, this will be an opportunity to learn the art of making robots which are controlled by the signals coming from your mind. With this workshop participants will integrate Brainwave technology and Robotics (which generally involves a microcontroller, actuators, power supply, etc.) to conceptualize and design complex systems to harness the power of mind in the form of brainwaves.\n"
+		"Workshop Fee : 1000 per student (Including Hardware Kit for group of 4)	 Date : 6 th - 7 th March 2018.\n"
+		"Presented by: SkillThon\n"
+		"Associated Partners for Certification &amp; Training 1. Microsoft 2. Elan &amp; NVision, IIT Hyderabad \n\n"
+		"EVENT COORDINATORS: \n"
+		"Dinmani Kumar +91-8093987364\n"
+		"Ganesh Prajapati +91-7978694774\n"
+	</string>
+    <string name="wfw">
+		"INTRODUCTION OF THE EVENT \n\n"
+		"Terribly Tiny Tales (TTT) is the world's most celebrated micro-fiction platform. With tales under 140 characters, it will get you hitched because what's better than words that are crisp and hit right at the feels! Join us in celebrating this long-storyshort journey by learning their behind-the-scenes!!! \n"
+		"Registration fees : FREE   Event Date : 9thMarch 2018   Event Timing : 4:00 pm – 6:00 pm \n\n"
+		"For Registration visit : https://goo.gl/forms/6QbH1EpnN669bXiB3\n\n"
+		"EVENT COORDINATORS: \n"
+		""
+	</string>
+
+
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+
+</resources>

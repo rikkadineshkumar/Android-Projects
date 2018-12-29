@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "975790184193",
+    "firebase_url": "https://home-automation-25554.firebaseio.com",
+    "project_id": "home-automation-25554",
+    "storage_bucket": "home-automation-25554.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975790184193:android:da684f9e53523d01",
+        "android_client_info": {
+          "package_name": "com.manish.dinesh.projecthomeatomation.Activity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975790184193-ku7ogro0ub8v50hkv8sa671g3vn98tig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKl-8NZEiwMNJaYEXZO26HP6O77bVpZoM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975790184193:android:90ae0e394a19a9c3",
+        "android_client_info": {
+          "package_name": "com.manish.dinesh.projecthomeatomation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975790184193-ku7ogro0ub8v50hkv8sa671g3vn98tig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKl-8NZEiwMNJaYEXZO26HP6O77bVpZoM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="260dp"
+            android:bottomLeftRadius="20dip"
+            android:bottomRightRadius="20dip"
+            android:topLeftRadius="20dip"
+            android:topRightRadius="20dip" />
+
+        <TextView
+            android:id="@+id/title_text"
+            style="@style/Base.TextAppearance.AppCompat.Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/imageView"
+            android:layout_centerHorizontal="true"
+            android:background="#80000000"
+            android:ellipsize="end"
+            android:fontFamily="cursive"
+            android:gravity="center"
+            android:lines="1"
+            android:padding="8dp"
+            android:text="PREVIOUS YEAR'S SANKALP"
+            android:textAppearance="?android:attr/textAppearanceLargeInverse"
+            android:textColor="@color/cardview_light_background"
+            android:textSize="18sp"
+            android:textStyle="bold|italic" />
+
+
+</RelativeLayout>

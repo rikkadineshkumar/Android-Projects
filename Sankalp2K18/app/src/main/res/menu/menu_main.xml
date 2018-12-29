@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/menu_top"
+        android:checkableBehavior="none">
+
+        <item
+            android:id="@+id/dashboard"
+            android:title="Dashboard"
+            android:textSize="20sp"/>
+        <item
+            android:id="@+id/settings"
+            android:title="Setting"
+            android:textSize="20sp"/>
+        <item
+            android:id="@+id/logout"
+            android:title="LogOut"
+            android:textSize="30sp"/>
+    </group>
+
+    <item
+        android:title="Other" />
+
+    <group
+        android:checkableBehavior="none">
+
+
+        <item
+            android:id="@+id/aboutus"
+            android:icon="@drawable/aboutus"
+            android:title="About Us"
+            android:textSize="30sp"/>
+    </group>
+</menu>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Project Home Atomation</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="device_types">
+        <item>LED Light</item>
+        <item>CFL Light</item>
+        <item>Tube Light</item>
+        <item>Bed Light</item>
+        <item>Table Lamp</item>
+        <item>Classic Light</item>
+        <item>Bed Lamp</item>
+        <item>Ceiling Fan</item>
+        <item>Table Fan</item>
+        <item>Air Cooler Fan</item>
+        <item>Air Conditioner</item>
+        <item>Television</item>
+        <item>Home Theater System</item>
+    </string-array>
+
+</resources>

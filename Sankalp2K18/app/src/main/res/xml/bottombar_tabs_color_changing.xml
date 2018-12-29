@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/b_home"
+        icon="@drawable/home"
+        title="Home"
+        barColorWhenSelected="#B0BEC5"/>
+    <tab
+        id="@+id/b_events"
+        icon="@drawable/events"
+        title="Events"
+        barColorWhenSelected="#B0BEC5" />
+    <tab
+        id="@+id/b_office"
+        icon="@drawable/office"
+        title="Office Bearers"
+        barColorWhenSelected="#B0BEC5"/>
+    <tab
+        id="@+id/b_gallery"
+        icon="@drawable/gallery"
+        title="Gallery"
+        barColorWhenSelected="#B0BEC5"/>
+</tabs>
