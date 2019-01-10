@@ -9,10 +9,6 @@ import android.view.ViewGroup;
 
 import com.nist.sankalp2k18.R;
 
-/**
- * Created by ABHISHEK on 2/18/2018.
- */
-
 public class OfficeBearers extends Fragment {
     @Nullable
     @Override
