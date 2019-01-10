@@ -11,10 +11,6 @@ import android.view.ViewGroup;
 import com.github.florent37.materialleanback.MaterialLeanBack;
 import com.nist.sankalp2k18.R;
 
-/**
- * Created by ABHISHEK on 2/18/2018.
- */
-
 public class Gallery extends Fragment {
 
 
