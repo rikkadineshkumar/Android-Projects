@@ -6,9 +6,6 @@ import android.widget.TextView;
 import com.github.florent37.materialleanback.MaterialLeanBack.ViewHolder;
 import com.nist.sankalp2k18.R;
 
-/**
- * Created by ABHISHEK on 2/21/2018.
- */
 
 public class TestViewHolder extends ViewHolder {
 
