@@ -15,9 +15,6 @@ import android.widget.Spinner;
 import com.nist.sankalp2k18.HomeActivity;
 import com.nist.sankalp2k18.R;
 
-/**
- * Created by ABHISHEK on 2/23/2018.
- */
 
 public class NistianRegistration extends Fragment {
 
