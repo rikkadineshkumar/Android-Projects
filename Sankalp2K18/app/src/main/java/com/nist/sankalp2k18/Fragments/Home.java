@@ -16,10 +16,6 @@ import com.nist.sankalp2k18.R;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by ABHISHEK on 2/18/2018.
- */
-
 public class Home extends Fragment {
 
     private RecyclerView recyclerView;
