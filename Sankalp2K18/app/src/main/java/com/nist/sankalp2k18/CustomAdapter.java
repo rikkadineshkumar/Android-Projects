@@ -1,8 +1,5 @@
 package com.nist.sankalp2k18;
 
-/**
- * Created by ABHISHEK on 3/4/2018.
- */
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
