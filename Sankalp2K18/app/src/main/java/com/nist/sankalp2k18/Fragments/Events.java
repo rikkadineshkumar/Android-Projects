@@ -13,9 +13,6 @@ import com.github.florent37.materialleanback.MaterialLeanBack;
 import com.nist.sankalp2k18.DetailsScrollingActivity;
 import com.nist.sankalp2k18.R;
 
-/**
- * Created by ABHISHEK on 2/18/2018.
- */
 
 public class Events extends Fragment {
 
