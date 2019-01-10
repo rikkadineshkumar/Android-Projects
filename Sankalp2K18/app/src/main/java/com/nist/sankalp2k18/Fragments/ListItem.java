@@ -1,8 +1,5 @@
 package com.nist.sankalp2k18.Fragments;
 
-/**
- * Created by ABHISHEK on 2/18/2018.
- */
 public class ListItem {
     String title;
     int imageID;
